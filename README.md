@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @tcgsec
+- 👀 I’m interested in Cyber Security
+- 🌱 I’m currently learning Wep application pentesting 
+- 📫 How to reach me devanshraghav3@gmail.com
